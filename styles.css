@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+#rectangle {
+    background-color: #4971FF;
+    height:36px
+
+}
+
+#testo-rectangle a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#testo-rectangle {
+    padding: 6px;
+
+}
+
+#laboratori a {
+    color:#4971FF;
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#laboratori {
+    padding: 10px;
+    
+}
+
+#btn-link {
+    align-items: flex-start;
+    background: #FFFFFF;
+    border: 1px solid #FFC107;
+    color: #FFC107;
+}
+
+#btn-link a {
+    color: #FFC107;
+}
